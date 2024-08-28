@@ -9,7 +9,6 @@ const Index = ({ pets }) => {
 
   return (
     <>
-<h4>Jonathan Alexander Rodriguez Campos jonathanrodriguezc16@gmail.com</h4>
       {/* TODO: Display Hours component */}
       <Hours></Hours>
 
@@ -53,6 +52,10 @@ const Index = ({ pets }) => {
           </div>
         </div>
       ))}
+      <diV>
+
+<h4>Jonathan Alexander Rodriguez Campos jonathanrodriguezc16@gmail.com</h4>
+      </diV>
     </>
   );
 };
