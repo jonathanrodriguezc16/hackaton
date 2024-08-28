@@ -9,7 +9,7 @@ const Index = ({ pets }) => {
 
   return (
     <>
-
+<h1>Jonathan Alexander Rodriguez Campos jonathanrodriguezc16@gmail.com</h1>
       {/* TODO: Display Hours component */}
       <Hours></Hours>
 
